@@ -22,7 +22,7 @@ You can show off your midterm analysis by moving the report components and outpu
 
 ---
 
-_**[Regression Interpretation](subpages/report)**_
+_**[Regression Interpretation](report)**_
 
 Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
 
