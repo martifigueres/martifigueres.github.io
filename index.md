@@ -27,8 +27,6 @@ We used the Loughran-McDonald 10-K dictionary to extract word frequencies, compu
   <img src="images/Annualreturns.png" alt="Annual Returns by Bin" style="width: 100%; height: auto;"><br>
 </div>
 
-<br>
-
 <div style="max-width: 100%; overflow-x: auto; border: 1px solid #ccc; padding: 10px;">
     <strong>Cumulative Return: Long-Short Strategy (Bin 5 minus Bin 1)</strong><br>
   <img src="images/Cumulativereturns.png" alt="Cumulative Returns Long-Short" style="width: 100%; height: auto;">
