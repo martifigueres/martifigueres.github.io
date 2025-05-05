@@ -32,7 +32,7 @@ We used the Loughran-McDonald 10-K dictionary to extract word frequencies, compu
   <img src="images/Cumulativereturns.png" alt="Cumulative Returns Long-Short" style="width: 100%; height: auto;">
 </div>
 
----
+----
 
 ### [Natural Language Processing on 10-Ks: Identifying Risk](report)
 
@@ -57,7 +57,7 @@ Our findings highlight the effectiveness of log-log regression specifications in
 
 <img src="images/correlation.png" alt="Feature Correlation with Sale Price" style="width:100%; max-width:700px;">
 
---
+---
 
 
 ## Career Objectives
