@@ -5,7 +5,7 @@ I am an awesome student at Lehigh, you should hire me!
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/martifigueres/martifigueres.github.io/raw/master/images/Figueres.Marti Headshot.png" width="50%">
+  <img class="img-circle" src="https://github.com/martifigueres/martifigueres.github.io/blob/master/images/25LEHIGH-00353-2-1010677197-1.jpg" width="50%">
 </p>
 
 ---
