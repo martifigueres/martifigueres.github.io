@@ -1,59 +1,66 @@
 ## About Me
 
-I am a senior at Lehigh University in the Integrated Business and Engineering (IBE) Honors Program, on track to get a B.S. in Chemical Engineering and a B.S. in IBE Finance with a minor in Economics
-
-<!-- Upload your own photo and change the path -->
+I am a senior at **Lehigh University**, pursuing a dual Bachelor of Science degree in **Chemical Engineering** and **Integrated Business and Engineering (IBE) Finance**, with a minor in **Economics**. I am part of the competitive IBE Honors Program, where I apply a multidisciplinary approach to solving complex engineering and financial challenges.
 
 <p style="text-align:center;">
-  <img class="img-circle" src="images/IBE Headshot.png" width="50%">
+  <img class="img-circle" src="images/IBE Headshot.png" width="50%" alt="Marti Figueres Headshot">
 </p>
 
 ---
 
 ## Portfolio
 
-<!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
+Here are a few of my academic and personal projects that reflect my interests in data science, finance, and engineering:
 
-_**[Natural language processing 10-Ks to identify risks](report)**_
+### [Natural Language Processing on 10-Ks: Identifying Risk](report)
 
-You can show off your midterm analysis by moving the report components and output into this file. Or...
+Applied NLP techniques to SEC 10-K filings to extract sentiment and identify risk-related language. Combined textual analysis with financial return data for empirical validation.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-_**[Regression Interpretation](report)**_
-
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true" alt="NLP Project Thumbnail"/>
 
 ---
 
-_**[Lazy Prices Project](https://lazypricesproject.streamlit.app/)**_
+### [Regression Interpretation](report)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+A statistical deep dive into regression outputs and their implications. This project focuses on model diagnostics and interpretability in real-world data scenarios.
+
+<img src="images/dummy_thumbnail.jpg?raw=true" alt="Regression Project Thumbnail"/>
 
 ---
 
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
+### [Lazy Prices Project](https://lazypricesproject.streamlit.app/)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Developed an interactive Streamlit web app to explore pricing inefficiencies in financial markets using event study methodologies and machine learning.
+
+<img src="images/dummy_thumbnail.jpg?raw=true" alt="Lazy Prices Project Thumbnail"/>
+
+---
+
+### [Personal Presentation Sample](/pdf/sample_presentation.pdf)
+
+A sample of my communication work from an interdisciplinary seminar, highlighting how I present complex ideas to diverse audiences.
+
+<img src="images/dummy_thumbnail.jpg?raw=true" alt="Presentation Project Thumbnail"/>
 
 ---
 
 ## Career Objectives
 
-Write what you want. 
-
-Sell yourself!
+I aim to work at the intersection of **engineering, finance, and data analytics**, particularly in roles that involve **energy systems**, **technology strategy**, or **investment strategy**. My goal is to apply both technical rigor and financial insight to solve meaningful, real-world problems.
 
 ---
 
 ## Hobbies
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+Outside of academics, I enjoy:
+
+- Competitive board games  
+- Exploring new types of cheese (I'm a proud member of the Cheese Club)  
+- Traveling  
+- SCUBA Diving  
 
 ---
+
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+
 <!-- Remove above link if you don't want to attibute -->
