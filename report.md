@@ -116,25 +116,26 @@ Though no variable is constant, overall, there is little variation among the thr
 ### Caveats
 Some caveats to this data the reader should be aware of revolve around sample limitations. This sample is limited to S&P 500 firms in 2022, which may not generalize to smaller firms or firms before COVID-19. Another caveat that should be said with any model is causality, in that while this analysis tries to identify correlations, it cannot establish causality between sentiment and returns. Also, not all language or filler text may have been removed in the documents, which can dilute the sentiment signal. Laslty, while the contextual words for the three topics may have been extensive, it was not exhaustive and I'm sure there were many words relating to the topics that would have flagged sentiment which I missed.
 
-## Results
+### Results
 
-### Table of correlation of each sentiment measure against return measures
-| Sentiment Measure            | return_t   | return_t2  | return_t10 |
-|------------------------------|------------|------------|------------|
-| LM_Positive_Total            | -0.094905  | -0.103082  | -0.029153  |
-| LM_Negative_Total            | -0.049993  | -0.057039  | -0.056119  |
-| ML_Positive_Total            | -0.042430  | -0.032589  | -0.005833  |
-| ML_Negative_Total            | -0.036529  | -0.036205  |  0.028079  |
-| Cybersecurity_Positive       | -0.009735  | -0.030446  | -0.118316  |
-| Cybersecurity_Negative       | -0.019586  | -0.035941  | -0.096455  |
-| Properties_Positive          |  0.036123  |  0.020058  |  0.007866  |
-| Properties_Negative          |  0.044406  |  0.025765  |  0.024222  |
-| Sustainability_Positive      | -0.031326  |  0.000547  |  0.178849  |
-| Sustainability_Negative      | -0.015515  |  0.013134  |  0.190426  |
+**Table: Correlation of Each Sentiment Measure Against Return Measures**
+
+| Sentiment Measure         | return_t   | return_t2  | return_t10 |
+|---------------------------|------------|------------|------------|
+| LM_Positive_Total         | -0.094905  | -0.103082  | -0.029153  |
+| LM_Negative_Total         | -0.049993  | -0.057039  | -0.056119  |
+| ML_Positive_Total         | -0.042430  | -0.032589  | -0.005833  |
+| ML_Negative_Total         | -0.036529  | -0.036205  |  0.028079  |
+| Cybersecurity_Positive    | -0.009735  | -0.030446  | -0.118316  |
+| Cybersecurity_Negative    | -0.019586  | -0.035941  | -0.096455  |
+| Properties_Positive       |  0.036123  |  0.020058  |  0.007866  |
+| Properties_Negative       |  0.044406  |  0.025765  |  0.024222  |
+| Sustainability_Positive   | -0.031326  |  0.000547  |  0.178849  |
+| Sustainability_Negative   | -0.015515  |  0.013134  |  0.190426  |
 
 
 ### Scatterplot of each sentiment measure against return measures
-![Sentiment vs Returns Scatterplots](Images/sentiment_vs_returns.png)
+![Sentiment vs Returns Scatterplots](images/sentiment_vs_returns.png)
 
 
 ## Discussion Topics
