@@ -22,7 +22,7 @@ Applied NLP techniques to SEC 10-K filings to extract sentiment and identify ris
 
 ---
 
-### [Regression Interpretation](report)
+### [Regression Interpretation](A6readme)
 
 A statistical deep dive into regression outputs and their implications. This project focuses on model diagnostics and interpretability in real-world data scenarios.
 
