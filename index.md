@@ -67,13 +67,6 @@ Our findings highlight the effectiveness of log-log regression specifications in
 
 ---
 
-### [Personal Presentation Sample](/pdf/sample_presentation.pdf)
-
-A sample of my communication work from an interdisciplinary seminar, highlighting how I present complex ideas to diverse audiences.
-
-<img src="images/dummy_thumbnail.jpg?raw=true" alt="Presentation Project Thumbnail"/>
-
----
 
 ## Career Objectives
 
