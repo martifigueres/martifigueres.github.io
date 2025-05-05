@@ -46,7 +46,7 @@ Applied NLP techniques to SEC 10-K filings to extract sentiment and identify ris
 
 ### [Regression Interpretation](A6readme)
 
-This project investigates residential housing prices through a combination of exploratory analysis and regression modeling. We analyzed over 80 variables from 1,941 home sales (2006–2008) to identify key price drivers. Strong predictive performance (R² = 0.828) was achieved by emphasizing **structural features**—such as overall quality and living area—over time-based variables.
+This project investigates residential housing prices through a combination of exploratory analysis and regression modeling. We analyzed over 80 variables from 1,941 home sales (2006–2008) to identify key price drivers. Strong predictive performance (R² = 0.828) was achieved by emphasizing **structural features** such as overall quality and living area over time-based variables.
 
 Two core visualizations reinforce the insights:
 
