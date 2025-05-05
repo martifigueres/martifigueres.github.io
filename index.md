@@ -1,6 +1,6 @@
 ## About Me
 
-I am an awesome student at Lehigh, you should hire me!
+I am a senior at Lehigh University in the Integrated Business and Engineering (IBE) Honors Program, on track to get a B.S. in Chemical Engineering and a B.S. in IBE Finance with a minor in Economics
 
 <!-- Upload your own photo and change the path -->
 
