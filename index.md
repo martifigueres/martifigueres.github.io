@@ -59,9 +59,6 @@ Our findings highlight the effectiveness of log-log regression specifications in
 
 #### 🔍 Visualizations
 
-**Sale Price by Overall Quality Rating**  
-<img src="images/quality_impact.png" alt="Sale Price by Overall Quality" style="width:100%; max-width:700px;">
-
 **Top 15 Features Correlated with Sale Price**  
 <img src="images/correlation.png" alt="Feature Correlation with Sale Price" style="width:100%; max-width:700px;">
 
