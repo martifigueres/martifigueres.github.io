@@ -16,7 +16,7 @@ Here are a few of my academic and personal projects that reflect my interests in
 
 Applied NLP techniques to SEC 10-K filings to extract sentiment and identify risk-related language. Combined textual analysis with financial return data for empirical validation.
 
-<div style="max-height: 500px; overflow-y: auto; border: 1px solid #ccc; padding: 10px;">
+<div style="max-height: 300px; overflow-y: auto; border: 1px solid #ccc; padding: 10px;">
   <img src="images/sentiment_vs_returns.png" alt="Sentiment vs Returns Scatterplots" style="width: 100%;">
 </div>
 
