@@ -39,9 +39,9 @@ We used the Loughran-McDonald 10-K dictionary to extract word frequencies, compu
 Applied NLP techniques to SEC 10-K filings to extract sentiment and identify risk-related language. Combined textual analysis with financial return data for empirical validation.
 
 <div style="max-height: 300px; overflow-y: auto; border: 1px solid #ccc; padding: 10px;">
-  <img src="images/sentiment_vs_returns.png" alt="Sentiment vs Returns Scatterplots" style="width: 100%;">
+  <img src="images/sentiment_vs_returns.png" alt="Sentiment vs Returns Scatterplots" style="width: 100%;"><br>
 </div>
-
+---
 <hr>
 
 ### [Regression Interpretation](A6readme)
