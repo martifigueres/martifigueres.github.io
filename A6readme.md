@@ -1,6 +1,6 @@
 # Housing Price Prediction: Regression Analysis & Model Comparison
 
-![Housing Price Distribution](housing_eda_visualizations/price_distribution.png)
+![Housing Price Distribution](images/price_distribution.png)
 
 ## Project Overview
 This repository analyzes residential property sales data (2006-2008) to identify key determinants of housing prices. Through exploratory data analysis and regression modeling, we:
@@ -23,10 +23,10 @@ This repository analyzes residential property sales data (2006-2008) to identify
 - Target variable: `v_SalePrice` ($13,100 - $755,000 range)
 
 ## Key Visualizations
-![Feature Correlations](housing_eda_visualizations/correlation.png)
+![Feature Correlations](images/correlation.png)
 *Top predictors of sale price*
 
-![Quality Impact](housing_eda_visualizations/quality_impact.png)
+![Quality Impact](images/quality_impact.png)
 *Price premium by quality rating*
 
 ## Installation & Requirements *
