@@ -3,7 +3,7 @@
 I am a senior at Lehigh University, pursuing a dual Bachelor of Science degree in **Chemical Engineering** and **Integrated Business and Engineering (IBE) Finance**, with a minor in **Economics**. I am part of the competitive [IBE Honors Program](https://ibe.lehigh.edu/welcome-lehighs-ibe-honors-program), where I apply a multidisciplinary approach to solving complex engineering and financial challenges.
 
 <p style="text-align:center;">
-  <img class="img-circle" src="images/IBE Headshot.png" width="50%" alt="Marti Figueres Headshot">
+  <img class="img-circle" src="images/IBE Headshot.png" width="80%" alt="Marti Figueres Headshot">
 </p>
 
 ---
