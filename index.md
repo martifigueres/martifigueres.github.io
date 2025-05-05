@@ -24,9 +24,22 @@ Applied NLP techniques to SEC 10-K filings to extract sentiment and identify ris
 
 ### [Regression Interpretation](A6readme)
 
-A statistical deep dive into regression outputs and their implications. This project focuses on model diagnostics and interpretability in real-world data scenarios.
+This project investigates residential housing prices through a combination of exploratory analysis and regression modeling. We analyzed over 80 variables from 1,941 home sales (2006–2008) to identify key price drivers. Strong predictive performance (R² = 0.828) was achieved by emphasizing **structural features**—such as overall quality and living area—over time-based variables.
 
-<img src="images/dummy_thumbnail.jpg?raw=true" alt="Regression Project Thumbnail"/>
+Two core visualizations reinforce the insights:
+
+- **Quality Impact:** Homes with higher overall quality ratings command substantial price premiums.
+- **Feature Correlation:** Variables like `v_Overall_Qual`, `v_Gr_Liv_Area`, and `v_Garage_Cars` show the strongest linear relationship with sale price.
+
+Our findings highlight the effectiveness of log-log regression specifications in capturing non-linear relationships in housing market data.
+
+#### 🔍 Visualizations
+
+**Sale Price by Overall Quality Rating**  
+<img src="images/quality_impact.html" alt="Sale Price by Overall Quality" style="width:100%; max-width:700px;">
+
+**Top 15 Features Correlated with Sale Price**  
+<img src="images/correlation.png" alt="Feature Correlation with Sale Price" style="width:100%; max-width:700px;">
 
 ---
 
