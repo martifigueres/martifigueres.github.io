@@ -30,7 +30,7 @@ Or: The process that created this page can be used to show off your whole midter
 
 ---
 
-_**[Lazy Prices Project](https://lazypricesreplication.streamlit.app/)**_
+_**[Lazy Prices Project](https://lazypricesproject.streamlit.app/)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
