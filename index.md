@@ -57,8 +57,6 @@ Two core visualizations reinforce the insights:
 
 Our findings highlight the effectiveness of log-log regression specifications in capturing non-linear relationships in housing market data.
 
-#### 🔍 Visualizations
-
 **Top 15 Features Correlated with Sale Price**  
 <img src="images/correlation.png" alt="Feature Correlation with Sale Price" style="width:100%; max-width:700px;">
 
