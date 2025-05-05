@@ -32,7 +32,7 @@ We used the Loughran-McDonald 10-K dictionary to extract word frequencies, compu
   <img src="images/Cumulativereturns.png" alt="Cumulative Returns Long-Short" style="width: 100%; height: auto;">
 </div>
 
----
+<hr>
 
 ### [Natural Language Processing on 10-Ks: Identifying Risk](report)
 
@@ -42,7 +42,7 @@ Applied NLP techniques to SEC 10-K filings to extract sentiment and identify ris
   <img src="images/sentiment_vs_returns.png" alt="Sentiment vs Returns Scatterplots" style="width: 100%;">
 </div>
 
----
+<hr>
 
 ### [Regression Interpretation](A6readme)
 
