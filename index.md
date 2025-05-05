@@ -32,6 +32,7 @@ We used the Loughran-McDonald 10-K dictionary to extract word frequencies, compu
   <img src="images/Cumulativereturns.png" alt="Cumulative Returns Long-Short" style="width: 100%; height: auto;"><br>
 </div>
 
+---
 <hr>
 
 ### [Natural Language Processing on 10-Ks: Identifying Risk](report)
