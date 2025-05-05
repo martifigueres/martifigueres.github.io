@@ -94,6 +94,7 @@ The three topics — Cybersecurity, Properties, and Sustainability — were chos
 - Mean: 0.033393
 
 **Returns**
+
 Return_t
 - Min: -0.242779
 - Max: 0.162141
@@ -133,7 +134,7 @@ Some caveats to this data the reader should be aware of revolve around sample li
 
 
 ### Scatterplot of each sentiment measure against return measures
-![Sentiment vs Returns Scatterplots](images/sentiment_vs_returns.png)
+![Sentiment vs Returns Scatterplots](Images/sentiment_vs_returns.png)
 
 
 ## Discussion Topics
