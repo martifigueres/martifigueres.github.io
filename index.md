@@ -57,7 +57,7 @@ Our findings highlight the effectiveness of log-log regression specifications in
 
 <img src="images/correlation.png" alt="Feature Correlation with Sale Price" style="width:100%; max-width:700px;">
 
----
+--
 
 
 ## Career Objectives
