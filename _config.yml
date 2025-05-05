@@ -1,15 +1,17 @@
 title: Marti Figueres
 logo: "images/25LEHIGH2.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  ### My Information  
+  <b>My Information</b>
 
+  <br>
   <a href="https://www.linkedin.com/in/marti-figueres/">LinkedIn</a> 
   <br>
   <a href="pdf/Figueres_Marti Resume.pdf" class="btn btn--info">Resume</a>  
   <br>
   <a href="https://www.GitHub.com/martifigueres/">GitHub</a>  
   <br><br>
-  ### Contact Information  
+  <b>Contact Information</br>
+  <br>
   Email: martifigueres0912@gmail.com  
   <br>
   Phone: (469) 352-7733
