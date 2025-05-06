@@ -1,3 +1,9 @@
+### Quick Navigation
+- [About Me](#about-me)
+- [Portfolio](#portfolio)
+- [Career Objectives](#career-objectives)
+- [Hobbies](#hobbies)
+
 ## About Me
 
 Welcome! I am a senior at Lehigh University, pursuing a dual Bachelor of Science degree in **Chemical Engineering** and **Integrated Business and Engineering (IBE) Finance**, with a minor in **Economics**. I am part of the competitive [IBE Honors Program](https://ibe.lehigh.edu/welcome-lehighs-ibe-honors-program), where I apply a multidisciplinary approach to solving complex engineering and financial challenges.
@@ -11,6 +17,8 @@ Welcome! I am a senior at Lehigh University, pursuing a dual Bachelor of Science
 ## Portfolio
 
 Here are a few of my academic and personal projects that reflect my interests in data science, finance, and engineering:
+
+<div style="border: 1px solid #e0e0e0; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
 
 ### [Lazy Prices Project](https://lazypricesproject.streamlit.app/)
 
@@ -30,6 +38,8 @@ We used the Loughran-McDonald 10-K dictionary to extract word frequencies, compu
 <div style="max-width: 100%; overflow-x: auto; border: 1px solid #ccc; padding: 10px;">
     <strong>Cumulative Return: Long-Short Strategy (Bin 5 minus Bin 1)</strong><br>
   <img src="images/Cumulativereturns.png" alt="Cumulative Returns Long-Short" style="width: 100%; height: auto;"><br>
+</div>
+
 </div>
 
 ---
@@ -79,7 +89,11 @@ Outside of academics, I enjoy:
 - Reading about innovations in the pharma/energy industry
 
 ---
+<p style="text-align: center; font-size: 12px; color: gray;">
+  Last updated: May 2025
+</p>
 
+---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 
 <!-- Remove above link if you don't want to attibute -->
