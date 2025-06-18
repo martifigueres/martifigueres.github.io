@@ -77,8 +77,8 @@ I aim to work at the intersection of **engineering, finance, and data analytics*
 
 Outside of academics, I enjoy:
 
-- Competitive board games  
-- Exploring new types of cheese (I'm a proud member of the Cheese Club)  
+- Trivia Nights  
+- Learning about and trying new types of cheese (I'm a proud member of the Cheese Club)  
 - Traveling  
 - SCUBA Diving
 - Fitness
